@@ -5,8 +5,8 @@
   "dependencies": {
     "bluebird": "^3.5.1",
     "jubatus": "^0.9.9",
-    "lodash": "^4.17.11",
-    "minimist": "^1.2.0"
+    "lodash": "^4.17.21",
+    "minimist": "^1.2.6"
   },
   "repository": {
     "type": "git",
